@@ -106,6 +106,11 @@ pytest tests/
 
 Please follow the existing code style and add tests for any new features.
 
+## 📸 Results Screenshot
+
+![Results](https://github.com/Bharath5050/AQI_Prediction_Using_ARIMA_Model/blob/main/Result.png)
+
+
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
